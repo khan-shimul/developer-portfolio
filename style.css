@@ -5,3 +5,19 @@ body{
 h1{
     font-size: 50px;
 }
+
+.name-color{
+    color: #FF5733;
+}
+
+section{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+}
+
+.half-width img{
+    width: 100%;
+}
